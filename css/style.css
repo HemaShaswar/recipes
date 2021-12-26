@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+    align-items: center;
+    background-color: bisque;
+}
+img {
+    border-radius: 25%;
+}
+h1 {
+    padding-top: 20px;
+}
